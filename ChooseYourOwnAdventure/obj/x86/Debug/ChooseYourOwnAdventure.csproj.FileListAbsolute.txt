@@ -12,3 +12,5 @@ c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\Choos
 c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\x86\Debug\ChooseYourOwnAdventure.pdb
 C:\Users\Sara\Documents\Visual Studio 2010\Projects\ChooseYourOwnAdventure - Copy\ChooseYourOwnAdventure\obj\x86\Debug\ChooseYourOwnAdventure.exe
 C:\Users\Sara\Documents\Visual Studio 2010\Projects\ChooseYourOwnAdventure - Copy\ChooseYourOwnAdventure\obj\x86\Debug\ChooseYourOwnAdventure.pdb
+C:\Users\Sara\Documents\Visual Studio 2010\Projects\ChooseYourOwnAdventure - Copy\choose-your-own-adventure\ChooseYourOwnAdventure\obj\x86\Debug\ChooseYourOwnAdventure.exe
+C:\Users\Sara\Documents\Visual Studio 2010\Projects\ChooseYourOwnAdventure - Copy\choose-your-own-adventure\ChooseYourOwnAdventure\obj\x86\Debug\ChooseYourOwnAdventure.pdb

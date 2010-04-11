@@ -1,0 +1,20 @@
+The enum "options" has different classes of lines for the text file. Here are the different types 
+
+
+TwoOption:
+lineid~option#OfLine~storyline~option1~option2~if1goto~if2goto
+
+NoOption:
+lineid~option#OfLine~storyline~goto
+
+Code:
+lineid~option#OfLine~code(make sure to set line variable for next line)
+
+WinGame:
+lineid~option#OfLine~GameConclusionStoryLine
+
+EndOfGame:
+lineid~option#OfLine~GameConclusionStoryLine
+
+OptionWCode:
+lineid~option#OfLine~storyline~gotoline
