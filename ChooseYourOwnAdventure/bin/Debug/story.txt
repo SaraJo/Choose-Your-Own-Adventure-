@@ -1,0 +1,17 @@
+0~3~ inventory = []; line = 1
+1~1~ You wake up in a dark room.  On the walls are the greek letters of the local soroity house.  Someone is banging on the door. ~ Explore the room ~ Open the door ~ 2 ~ 3
+2~5~ You explore the room.  You find a chain saw. ~ inventory.append("chainsaw"); line = 3
+3~1~ You open the door.  Standing there is your best friend.  They tell you they were sent here to pick you up by a mysterious letter, left on their doorstep. ~ "Let's get out of here." ~ "Let's check out the house." ~ 4 ~ 6
+4~1~ Are you sure?  Something doesn't seem quite right in the house... ~ Go Back ~ Bail ~ 6 ~ 5
+5~9~ You go home, and go to bed.  You wake up the next morning to find police outside the sorority house.  "Yea, there was a carbon monoxide leak last night", the cop tells you, as paramedics roll out bag after bag...
+6~1~ You go out into the hallway. There are two rooms. ~ Room on your left ~ Room on your right ~ 7 ~ 8
+7~2~ You enter the room on the left.  You see a gerbil asleep in its cage.  But you didn't think gerbils slept on their wheel... odd.  You find a crowbar. ~ 9
+8~2~ You enter the room on the right. This is a closet.  You come out of the closet. ~ 7
+9~1~ You exit and hear banging.  You walk down the stairs, and see the enterence to the basement ~ Go downstairs ~ WTF You kidding me? Why the FUCK would I go down there? ~ 10 ~ 5
+10~1~ You see a boarded up door in the corner.  There are muffled noises coming from it. ~ Try to open the door ~ Search the basement ~ 12 ~ 11
+11~5~ You search the basement and find an ax. ~ inventory.append("ax"); line = 10
+12~3~ line = (13 if 'chainsaw' in inventory else 14 if 'ax' in inventory else 16)
+13~2~ You take your chainsaw and violently decimate the door to the locked room. ~ 15
+14~2~ You gingerly take the crowbar and ax and pry open the locked door. ~ 15
+15~4~ The girls are inside, they were having a meeting and the door locked from the outside.  They've been in there for hours and were beginning to get sleepy.  It turns out the gas fireplace in their meeting room was leaking.  You saved their lives.  They are very appreciative.  Your name is in the paper.  (Fastest acquition of STDs recorded locally.)
+16~2~ You are too weak to open this door with just your crowbar. ~ 10

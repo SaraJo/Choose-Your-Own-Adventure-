@@ -1,0 +1,14 @@
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.pdb
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\IronPython.dll
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\IronPython.Modules.dll
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\Microsoft.Dynamic.dll
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\Microsoft.Scripting.Debugging.dll
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\Microsoft.Scripting.dll
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\IronPython.xml
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\IronPython.Modules.xml
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\x86\Debug\ChooseYourOwnAdventure.exe
+c:\users\sara\documents\visual studio 2010\Projects\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\x86\Debug\ChooseYourOwnAdventure.pdb
+C:\Users\Sara\Documents\Visual Studio 2010\Projects\ChooseYourOwnAdventure - Copy\ChooseYourOwnAdventure\obj\x86\Debug\ChooseYourOwnAdventure.exe
+C:\Users\Sara\Documents\Visual Studio 2010\Projects\ChooseYourOwnAdventure - Copy\ChooseYourOwnAdventure\obj\x86\Debug\ChooseYourOwnAdventure.pdb
